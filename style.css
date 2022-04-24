@@ -1,0 +1,169 @@
+.top{
+    background-image: url("picture/title.webp");
+    background-size: 100%; 
+    height: 43.75rem ;  
+}
+.lisa_top{
+    background-image: url("picture/lisa_wall.jpg");
+    background-size: 100%; 
+    height: 43.75rem ;  
+}
+.rose_top{
+    background-image: url("picture/rose_wall.jpg");
+    background-size: 100%; 
+    height: 43.75rem ;  
+}
+.jennie_top{
+    background-image: url("picture/jennie_wall.webp");
+    background-size: 100%; 
+    height: 43.75rem ; 
+     
+}
+.jisoo_top{
+    background-image: url("picture/jisoo_wall.jpg");
+    background-size: 100%; 
+    height: 43.75rem ;  
+}
+
+h1{
+    font-size: 5.625rem ;
+    width: fit-content;
+    color: #E93B81;
+    margin: auto;
+    position: relative;
+    top: 350px ;
+    border: solid #E93B81 0.1rem ;
+    padding: 1rem ;
+}
+.middle{
+    background-color: #FFDDCC;
+}
+h2{
+    width: fit-content;
+    font-size: 3.3rem ;
+    margin: 8.7rem;
+    margin-bottom: 0;
+    display: inline-block;
+    color:  #E93B81;
+    font-weight: bolder;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.member_name{
+    position: relative;
+    bottom: 11rem;
+}
+.member_photo{
+    width: 15rem;
+    margin: 3.7rem ;
+    margin-top: 10rem;
+}
+.member_photo:hover{
+    border: solid  #E93B81;
+    border-radius: 15rem;
+}
+.social{
+    font-size: 2.7rem ;
+    text-decoration: none;
+    color:  #E93B81;
+    margin: 7rem;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+.social:hover{
+    font-weight: 800;
+}
+.about{
+    font-size: 2rem ;
+    font-family: 'Shadows Into Light', cursive;
+}
+.bottom{
+    background-color: #fa83bc;
+    height: 8rem;
+}
+
+.ontro{
+    font-size: 1.6rem ;
+    margin: 0 12rem;
+    width: fit-content;
+    position: relative;
+    left: 22rem;
+    padding-top: 3rem;
+}
+.lisa_insta{
+    color: white;
+    font-size: 3rem;
+    display: inline-block;
+    position: relative;
+    left : 75rem ;
+    top : 35rem ;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+}
+.rose_insta{
+    color: white;
+    font-size: 3rem;
+    display: inline-block;
+    position: relative;
+    left : 68rem ;
+    top : 15rem ;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+}
+.jennie_insta{
+    color:  #E93B81;
+    font-size: 3rem;
+    display: inline-block;
+    position: relative;
+    left : 60rem ;
+    top : 16rem ;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+}
+.jisoo_insta{
+    color: white;
+    font-size: 3rem;
+    display: inline-block;
+    position: relative;
+    left : 73rem ;
+    top : 5rem ;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+}
+.lisa_about{
+    width: 50%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.6rem;
+    color: #FBFF00;
+}
+.jennie_about{
+    width: 40%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.6rem;
+    color:#b0074a ;
+}
+.rose_about{
+    width: 40%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.6rem;
+    color:white;
+}
+.jisoo_about{
+    width: 35%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.6rem;
+    color:white;
+}
+.shop{
+    width: 4rem;
+    position: fixed;
+    left: 88rem;
+    top: 3rem;
+}
+.home_page{
+    width: 4rem;
+    position: fixed;
+    left: 88rem;
+    top: 2rem;
+
+}
